@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Languages"
+content: |
+  I have worked in a couple of languages and frameworks and I especially enjoy working in Javascript, PHP, Python, .NET and Kotlin. I am presently giving Go a go 😉.
+  <br>
+  You can play around here. Feel free to customize the <span class="demo-controls"></span> of this section.
+button: 
+  label: "See example codes"
+  link: "https://github.com/awoyele"
+image: "images/spotlight01.jpg"

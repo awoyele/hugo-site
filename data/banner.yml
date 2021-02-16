@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "John Awoyele Hugo Site"
+subtitle: |
+  <strong>Thoughts and things I am working on presently.</strong>
+content : |
+  This is my <strong>website</strong> element, and it's generally used as a place i msue on my thougts mostly about programming.
+  I talk about projects i'm working on and give snippets of solutions that I am working on.
+  For example codes check out my github
+button:
+  label : "Checkout  My Github"
+  link : "https://github.com/awoyele"
+image : "images/banner.jpg"
+
